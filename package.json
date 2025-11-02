@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "add-two-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "perf_hooks": "^0.0.1"
+  }
+}
